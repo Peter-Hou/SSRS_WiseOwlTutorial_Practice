@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_WiseOwel_LectureNotes", "SSRS_project1\SSRS_WiseOwel_LectureNotes.rptproj", "{DC8A3704-7F50-47BA-BD04-1AFE686562B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Debug|Default.ActiveCfg = Debug
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Debug|Default.Build.0 = Debug
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Debug|Default.Deploy.0 = Debug
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.DebugLocal|Default.Build.0 = DebugLocal
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Release|Default.ActiveCfg = Release
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Release|Default.Build.0 = Release
+		{DC8A3704-7F50-47BA-BD04-1AFE686562B0}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBBF9C7D-A5B1-42FA-BDBC-20EA13A9E064}
+	EndGlobalSection
+EndGlobal
